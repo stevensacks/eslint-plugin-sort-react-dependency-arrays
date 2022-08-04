@@ -6,7 +6,7 @@
 'use strict';
 
 const RuleTester = require('eslint').RuleTester;
-const rule = require('../../../lib/rules/sort-react-dependency-arrays');
+const rule = require('../../../lib/rules/sort');
 
 const ruleTester = new RuleTester({
     parserOptions: {

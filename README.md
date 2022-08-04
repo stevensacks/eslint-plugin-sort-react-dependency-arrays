@@ -34,7 +34,7 @@ Then configure the rule under the rules section.
 ```json
 {
     "rules": {
-        "sort-react-dependency-arrays/sort-react-dependency-arrays": 2
+        "sort-react-dependency-arrays/sort": 2
     }
 }
 ```
