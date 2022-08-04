@@ -1,0 +1,6 @@
+package-lock.json
+.editorconfig
+.gitignore
+.stylelintignore
+.eslintignore
+.prettierignore

@@ -1,0 +1,12 @@
+.DS_Store
+.thumbs.db
+node_modules
+npm-debug.log*
+
+# Editor directories and files
+.vs
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
