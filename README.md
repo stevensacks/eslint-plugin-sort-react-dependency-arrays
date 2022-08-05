@@ -1,5 +1,5 @@
 # eslint-plugin-sort-react-dependency-arrays
-ESLint plugin to enforce alphabetically sorted React hook dependency arrays.
+ESLint plugin to enforce alphanumerically sorted React hook dependency arrays.
 
 Works with --fix.
 
@@ -29,7 +29,7 @@ Add `sort-react-dependency-arrays` to the plugins section of your `.eslintrc` co
 }
 ```
 
-Then configure the rule under the rules section.
+Then enable the rule under the rules section.
 
 ```json
 {
