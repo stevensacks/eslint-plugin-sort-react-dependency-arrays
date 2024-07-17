@@ -1,7 +1,7 @@
 {
     "name": "eslint-plugin-sort-react-dependency-arrays",
     "description": "ESLint plugin to alphabetically sort React hook dependency arrays",
-    "version": "0.3.0",
+    "version": "1.0.0",
     "author": "Steven Sacks <stevensacks@gmail.com>",
     "keywords": [
         "eslint",
@@ -32,6 +32,6 @@
         "eslint": ">=7"
     },
     "engines": {
-        "node": "^14.17.0 || ^16.0.0 || >= 18.0.0"
+        "node": ">= 18.18.0 || >= 20.0.0 || >= 22.0.0"
     }
 }
