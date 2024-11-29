@@ -38,3 +38,18 @@ Then enable the rule under the rules section.
     }
 }
 ```
+
+### Set locale
+The code uses JavaScript's **localeCompare** function so on different environments the result can be different. To avoid
+this issue specify the locale in your **.env** file.
+
+To set locale you can use one of these environment variables:
+* env.LANG
+* env.LANGUAGE
+* env.LC_ALL
+* env.LC_MESSAGES;
+
+**.env** file example:
+```
+LC_ALL=en_US.UTF-8
+```
